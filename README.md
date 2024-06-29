@@ -1,4 +1,3 @@
-### Hi everyone
+### Hi everyone 👋
 
-👋 Linguist specialized in Portuguese-French with a passion for storytelling and strategic text creation. Proficient in monitoring KPIs of digital marketing, I graduated from Universidade de São Paulo and have experience as a Copywriter crafting sales narratives that generated over US$100,000 in revenue. Currently serving as a Communication Strategist for State Deputy Ricardo França, overseeing internal and external communication. Expanding expertise in User Experience Design with certifications in UI/UX and pursuing a second bachelor's degree in Analysis and Systems Development at FATEC. Currently diving into Python and JS development.
-
+Communication professional with 4 years of solid experience in Digital Marketing and a student of Systems Analysis and Development. Knowledgeable in the following stacks: JavaScript, Python, Node, Express, FlutterFlow, Prisma, SQL, Render, NPM, Git, GitHub, and Jest. Strong expertise in MS Office, especially Excel. Fluent in Portuguese, English, and French. Possesses skills in verbal and written communication, teamwork, strategic thinking, analytical profile, and dynamism.
