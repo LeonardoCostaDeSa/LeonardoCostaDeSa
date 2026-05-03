@@ -4,7 +4,8 @@ Stack: Python · Django · FastAPI · Docker · LangChain · CrewAI · React · 
 
 Recent results at KPMG: 
 
-→ Agentic workflow for Brazilian Tax Reform: 30-80% process time reduction 
+→ Agentic workflow for Brazilian Tax Reform: 30-80% process time reduction
+
 → Multi-agent workflow (Power Automate + Copilot Studio) automated reading and extraction of critical data from 3,000+ public documents spanning 1958 to present 
 
 Languages: Portuguese (native) · English (fluent) · French (fluent) · Spanish (B1-B2, actively improving)
