@@ -1,6 +1,6 @@
 ### AI Engineer building and operating production GenAI systems for complex, regulated workflows.
 
-I design systems end to end — from process mapping and architecture to deployment, evaluation, observability, and human-in-the-loop controls.
+I design systems end to end, from process mapping and architecture to deployment, evaluation, observability, and human-in-the-loop controls.
 
 My work includes multi-agent systems, RAG, document intelligence, AI automation, and backend services used in legal, tax, compliance, and education workflows.
 
